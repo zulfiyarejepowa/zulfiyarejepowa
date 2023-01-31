@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **at ITEA as a Frontend developer and learning React**
 
-- 💬 Ask me about **CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **zulfiyarejepowa03@gmail.com**
 
