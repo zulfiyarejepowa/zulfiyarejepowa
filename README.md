@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zulfiya</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently upgrade my skills in **Frontend development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js**
 
 - 📫 How to reach me **zulfiyarejepowa03@gmail.com**
 
